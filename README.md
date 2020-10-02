@@ -11,10 +11,5 @@
 
 **Website (React + TypeScript)**
 
-**React Router Dom**
-**React Icons**
-**Axios**
-**Leaflet**
-**React Leaflet**
-**React Dropzone**
+**React Router Dom** | **React Icons** | **Axios** | **Leaflet** | **React Leaflet** | **React Dropzone**
 
