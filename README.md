@@ -1,2 +1,2 @@
 # Projeto-Ecoleta
-Aplicação feita durante o Next Level Week 1.0 na Rocketseat. Site com propósito de estimular a coleta de resíduos. 
+♻️ Ecoleta é um projeto Open Source desenvolvido na Next Level Week (1.0) da Rocketseat utilizando TypeScript, Node, React e React Native.
